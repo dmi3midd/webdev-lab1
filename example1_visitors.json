@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2,
+    "firstName": "Михайло",
+    "lastName": "Ільїн",
+    "phone": "0502222222",
+    "visitHistory": []
+  },
+  {
+    "id": 1,
+    "firstName": "Олександр",
+    "lastName": "Голота",
+    "phone": "0501111111",
+    "visitHistory": [
+      "2026-03-04"
+    ]
+  },
+  {
+    "id": 3,
+    "firstName": "Вадим",
+    "lastName": "Ковальчук",
+    "phone": "0503333333",
+    "visitHistory": []
+  }
+]

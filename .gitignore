@@ -1,0 +1,14 @@
+target/
+
+.mvn/
+
+
+.vscode/
+
+.DS_Store
+Thumbs.db
+
+dependency-reduced-pom.xml
+
+export*_visitors.json
+export*_trainers.json

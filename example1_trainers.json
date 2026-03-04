@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "firstName": "Дмитро",
+    "lastName": "Ставицький",
+    "specialization": "Силові тренування"
+  },
+  {
+    "id": 2,
+    "firstName": "Артем",
+    "lastName": "Тішин",
+    "specialization": "Кардіо"
+  }
+]
